@@ -1,6 +1,6 @@
 /venv/
 /kaggle_files/
-/data/
+data
 
 .idea
 
@@ -8,3 +8,4 @@
 __pycache__/
 *.py[cod]
 *$py.class
+/word2vec/clustering/elbow_plot/
